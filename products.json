@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "name":"Blue Box",
+        "description": "Contains: 2 Coffee sachets, nuts, droewors, chocolate, pretzels and assorted biscuits.",
+        "price": 100,
+        "image": "images/bb.png"
+    },
+    {
+        "id": 2,
+        "name":"Champaign Box",
+        "description": "Contains: Champaign bottle, 2 glasses, assorted chocolates and pack of handcream.",
+        "price": 100,
+        "image": "images/cb.png"
+    },
+    {
+        "id": 3,
+        "name":"Coffee Box",
+        "description": "Contains: 2 coffee mugs with 2 coffee sachets each, a box of biscuits and a slab of chocolate.",
+        "price": 100,
+        "image": "images/cof.png"
+    },
+    {
+        "id": 4,
+        "name":" Gin Box",
+        "description": "Contains: 2 bottles of gin mixers, 2 gin glasses, chocolates and a gin infused hand cream and soap.",
+        "price": 100,
+        "image": "images/gb.png"
+    },
+    {
+        "id": 5,
+        "name":" Green Box",
+        "description": "Contains: Coffee sachets, chocolate, pretzels, assorted biscuits and crackers, and Pringles.",
+        "price": 100,
+        "image": "images/green.png"
+    },
+    {
+        "id": 6,
+        "name":" Ice-cream Box",
+        "description": "Contains: ice-cream sundae glasses, toppings and sauce, chocolates, wafer biscuits and wooden ice cream spoons.",
+        "price": 100,
+        "image": "images/ib.png"
+    },
+    {
+        "id": 7,
+        "name":" Scone Box",
+        "description": "Contains: A bowl, 2 mugs with coffee sticks, an easy mix scone mix, jam cups and a fridge notepad.",
+        "price": 100,
+        "image": "images/scone.png"
+    },
+    {
+        "id": 8,
+        "name":" Senses Box",
+        "description": "Contains: 1 item for each of the differnt 5 senses. (Touch, Taste, See, Hear, Smell)",
+        "price": 100,
+        "image": "images/sb.png"
+    },   
+    {
+        "id": 9,
+        "name":" Snack Box",
+        "description": "Contains: Assorted biltong products, Assorted nuts, Dried fruit products and Pretzels.",
+        "price": 100,
+        "image": "images/snack.png"
+    },
+    {
+        "id": 10,
+        "name":" Sunshine Box",
+        "description": "Contains: Coffee sachets, coffee glasses, chocolate, biscuits and a scarf.",
+        "price": 100,
+        "image": "images/sun.png"
+    },
+    {
+        "id": 11,
+        "name":" Wine Box",
+        "description": "Contains: A bottle of wine, a wine glass, a serving platter with serving knives, biscuits, chocolate, soaps, handcreams, a fridge notepad.",
+        "price": 100,
+        "image": "images/wb.png"
+    }
+
+]
